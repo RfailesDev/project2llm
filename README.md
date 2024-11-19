@@ -59,13 +59,13 @@ MyProject/
     └── data.csv
 
 main.py
-```python
+```py
 print("Hello, world!")
 ```
 
 
 utils.py
-```python
+```py
 def my_function():
     print("Hoho, test function and test print!")
 ```
